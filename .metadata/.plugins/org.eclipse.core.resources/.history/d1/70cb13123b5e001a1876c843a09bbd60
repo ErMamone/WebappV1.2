@@ -1,0 +1,15 @@
+package net.itinajero.app.model;
+
+public class pelicula {
+	
+	private int id;
+	private String titulo;
+	private int duracion;
+	private String clasificacion;
+	private String genero;
+	private String imagen = "cinema.png";
+	private Date fechaEstreno;
+	private String estatus="Activa";
+	
+
+}

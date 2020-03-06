@@ -1,0 +1,27 @@
+package net.itinajero.app.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping(value="/noticias")
+public class noticiasController {
+	
+	@GetMapping(value="/create")
+	public String crear() {		
+		return "noticias/fromNoticia";
+	}
+	
+	@PostMapping(value="/save")
+	public String guardar(@RequestParam("titulo") String titulo) {
+		return "noticias/fromNoticia";
+	}
+	
+	
+	
+	
+	
+
+}

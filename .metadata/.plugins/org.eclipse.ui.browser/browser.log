@@ -1,0 +1,63 @@
+
+Mar 04, 2020 15:08:39.41 NEW SESSION
+Mar 04, 2020 15:08:39.41 Opening in existing browser session.
+Mar 04, 2020 15:09:18.25 [9262, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 04, 2020 15:09:18.25 [9262, Main Thread] ###!!! ABORT: file resource://gre/modules/TelemetryEnvironment.jsm, line 608
+Mar 04, 2020 15:09:18.26 ExceptionHandler::GenerateDump cloned child 9413
+Mar 04, 2020 15:09:18.26 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Mar 04, 2020 15:09:18.26 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Mar 04, 2020 15:09:24.88 IPDL protocol error: Handler returned error code!
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 IPDL protocol error: Handler returned error code!
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 IPDL protocol error: Handler returned error code!
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 IPDL protocol error: Handler returned error code!
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:24.88 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+Mar 04, 2020 15:09:24.88 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.00 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.00 
+Mar 04, 2020 15:09:26.01 
+Mar 04, 2020 15:09:26.01 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+Mar 04, 2020 15:09:26.01 
+
+Mar 05, 2020 10:01:07.43 NEW SESSION
+Mar 05, 2020 10:01:07.43 Opening in existing browser session.
+Mar 05, 2020 11:46:08.63 Opening in existing browser session.
+
+Mar 05, 2020 11:54:06.17 NEW SESSION
+Mar 05, 2020 11:54:06.17 Opening in existing browser session.
+Mar 05, 2020 11:58:36.54 Opening in existing browser session.
+Mar 05, 2020 12:09:07.69 Opening in existing browser session.
+Mar 05, 2020 12:09:49.94 Opening in existing browser session.
+Mar 05, 2020 12:27:27.00 Opening in existing browser session.
+Mar 05, 2020 14:09:53.49 Opening in existing browser session.
+Mar 05, 2020 14:11:25.19 Opening in existing browser session.
+Mar 05, 2020 17:33:39.50 Opening in existing browser session.
+
+Mar 06, 2020 10:15:37.28 NEW SESSION
+Mar 06, 2020 10:15:37.28 Opening in existing browser session.
+Mar 06, 2020 11:21:53.58 Opening in existing browser session.

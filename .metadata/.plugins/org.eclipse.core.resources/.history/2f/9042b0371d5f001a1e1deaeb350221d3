@@ -1,0 +1,17 @@
+package net.itinajero.app.util;
+
+import java.util.Calendar;
+import java.util.List;
+
+public class Utileria {
+	
+	
+	public static List<String> getNextDays( int count){
+		SimpleDateFormat sdf= new SimpleDateFormat("dd-MM-yyyy");
+		
+		Date start = new Date();
+		Calendar cal = Calendar.getInstance();
+		
+	}
+
+}

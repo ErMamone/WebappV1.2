@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+/home/sysone/Documents/workspace-spring-tool-suite-4-4.5.1.RELEASE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1473870651.index
+3681244071.index
+2652005791.index
+4268563751.index
+417841484.index
+2345068808.index
+4268563751.index
+3422863545.index
+2912104601.index
+2783329876.index

@@ -1,0 +1,7 @@
+package net.itinajero.app.controller;
+
+@Controller
+@RequestMapping(value="/noticias")
+public class noticiasController {
+
+}

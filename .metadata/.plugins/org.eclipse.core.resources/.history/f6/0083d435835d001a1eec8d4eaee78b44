@@ -1,0 +1,5 @@
+package com.sysone.app.controller;
+
+public class HomeController {
+
+}

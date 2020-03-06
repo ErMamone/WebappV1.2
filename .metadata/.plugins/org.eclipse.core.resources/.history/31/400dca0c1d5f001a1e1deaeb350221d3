@@ -1,0 +1,10 @@
+package net.itinajero.app.util;
+
+public class Utileria {
+	
+	
+	public static List<String> getNextDays( int count){
+		
+	}
+
+}
